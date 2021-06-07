@@ -1,5 +1,5 @@
 ### Vineeth Viswanathan - Software Engineer
--------
+
 `Full-Stack Developer` `Front-end Developer` `Back-end Developer`
 
 `Web Developer` `UI/UX Designer` `Devops` `Cloud Architect`
@@ -9,9 +9,9 @@
 
 ------
 
-###### ⭐ Professional Resume: [👉 View / Download](https://vineeth-pappu.github.io/resume/vineeth-professional-resume.pdf "View/Download Resume")👈
+###### ⭐ Professional Resume: 👉 [View / Download](https://vineeth-pappu.github.io/resume/vineeth-professional-resume.pdf "View/Download Resume") 👈
 
-###### 🌟 Creative Resume: 👉[View / Download](https://vineeth-pappu.github.io/resume/vineeth-creative-google-resume.pdf "View/Download Resume")👈
+###### 🌟 Creative Resume: 👉 [View / Download](https://vineeth-pappu.github.io/resume/vineeth-creative-google-resume.pdf "View/Download Resume") 👈
 
 ------
 

@@ -4,8 +4,9 @@
 
 `Web Developer` `UI/UX Designer` `Devops` `Cloud Architect`
 
--------
+
 🔗[view LinkedIn Profile](https://www.linkedin.com/in/vineeth-pappu-tech-savvy "View LinkedIn Profile")
+
 
 ------
 

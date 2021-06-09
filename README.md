@@ -7,6 +7,7 @@
 
 🔗[view LinkedIn Profile](https://www.linkedin.com/in/vineeth-pappu-tech-savvy "View LinkedIn Profile")
 
+🔗[view Github Profile](https://github.com/vineeth-pappu/ "View Github Profile")
 
 ------
 

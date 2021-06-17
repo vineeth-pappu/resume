@@ -17,7 +17,7 @@
 
 ------
 
-![Experience](https://raw.githubusercontent.com/vineeth-pappu/resume/main/experience.jpg)
+![Experience](https://raw.githubusercontent.com/vineeth-pappu/resume/main/experience.jpg) ![Skills](https://raw.githubusercontent.com/vineeth-pappu/resume/main/skills.jpg)
 
 
 
